@@ -53,7 +53,7 @@ body {
       justify-content: center;
       align-items: center;
       text-align: center;
-      background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/cafe.jpg")
+      background-image: url("https://unsplash.com/photos/ZLTlHeKbh04")
     }
     
     .supporting-container {
@@ -74,12 +74,12 @@ body {
     }
     
     .upcoming {
-    background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg")
+    background-image: url("https://unsplash.com/photos/q6wsSfN5SeI")
     }
     
     .roast {
       background-image: 
-    url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/events.jpg")
+    url("https://unsplash.com/photos/Rv_UID0uyMM")
     }
     
     #footer {
